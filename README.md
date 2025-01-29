@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abhishek Kumar.
 - 👀 I’m interested in AI, Biology, building stuff and whatever catches my Imagination.
 - 🌱 I’m currently learning Algorithms, System design, Design and Strategy.
-- 💞️ I’m looking to collaborate on fast moving breaking building great interesting cool things.
 - 📫 How to reach me- Email: @abhishekkumar25802@gmail.com
 
 
